@@ -1,5 +1,5 @@
 # RE-RELIEF-AI
-# 🎯 RE-RELIEF-AI: Lifestyle Changer App
+# 🎯 RE-LIEF-AI: Lifestyle Changer App
 
 Relief AI is an intelligent, multi-page app designed to help users transform their lifestyle with the power of artificial intelligence. Easily set goals, track habits, plan healthy meals, build workout routines, and receive personalized guidance—all from a modern dashboard.
 
